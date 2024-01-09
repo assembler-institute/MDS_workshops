@@ -27,6 +27,8 @@ In this workshop, participants will engage in a hands-on EDA challenge using the
 - Once all tasks are completed, groups will merge their work into the main branch.
 - The final combined EDA will be reviewed collectively, with an opportunity for feedback and discussion.
 
+
+
 ---
 
 Happy Coding!
