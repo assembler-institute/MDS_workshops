@@ -1,11 +1,5 @@
 # GitHub Workshop: Exploratory Data Analysis (EDA) Challenge
 
-The main branch has the workshop instructions.
-
-The solutions branch has a possible solutition for the EDA
-
-
-
 Welcome to our interactive GitHub Workshop! This workshop is designed to combine the practical use of GitHub with the fundamentals of Exploratory Data Analysis (EDA).
 
 ## Workshop Overview
