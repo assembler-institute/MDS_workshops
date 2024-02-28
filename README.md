@@ -1,8 +1,8 @@
 # Workshops
 
-1- Exploratory Data Analysis (EDA) Challenge
+1- eda_titanic: Exploratory Data Analysis (EDA) Challenge
 
-2- LiveCoding: Linear Algebra with NumPy
+2- math_livecoding: Linear Algebra with NumPy
 
 ## Getting Started
 
